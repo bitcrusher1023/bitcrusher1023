@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, This is Bit Crusher</h1>
-<h3 align="center">Professional full stack developer with a specialization in web & AI solution development.</h3>
+<h1 align="center">Hi 👋, This is Sammy Ronbinson</h1>
+<h3 align="center">Professional software engineer with a specialization in web development.</h3>
